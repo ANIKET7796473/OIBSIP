@@ -11,7 +11,7 @@ The goal is to identify suspicious transactions and classify them as fraudulent 
 The project uses the Credit Card Fraud Detection dataset.
 
 Dataset source:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://drive.google.com/file/d/1nNiHBsxXBzVk-mcfmPSiEjkOfdv7zZFt/view?usp=sharing)
 
 ## Technologies Used
 
